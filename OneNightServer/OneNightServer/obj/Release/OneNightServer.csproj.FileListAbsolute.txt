@@ -1,0 +1,5 @@
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\OneNightServer\OneNightServer\bin\Release\OneNightServer.exe.config
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\OneNightServer\OneNightServer\bin\Release\OneNightServer.exe
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\OneNightServer\OneNightServer\obj\Release\OneNightServer.csproj.AssemblyReference.cache
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\OneNightServer\OneNightServer\obj\Release\OneNightServer.csproj.CoreCompileInputs.cache
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\OneNightServer\OneNightServer\obj\Release\OneNightServer.exe
